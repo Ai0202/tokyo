@@ -1,0 +1,10 @@
+.omikuji {
+    margin: 0 auto;
+    width: 100px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+    color: #fff;
+    background-color: red;
+    cursor: pointer;
+}
